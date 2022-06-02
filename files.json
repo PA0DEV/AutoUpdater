@@ -3,6 +3,8 @@
     "main": [
         ".gitattributes",
         "autoUpdater.py",
+        "files.json",
+        "info.json",
         "LICENSE",
         "main.py",
         "README.md"

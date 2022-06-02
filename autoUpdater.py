@@ -67,7 +67,7 @@ class Updater:
             :return: Returns True if download is ready and need to reboot
         """
         if self.isNewUpdate():
-            files = json.loads(self.downloadFile("/settings/files.json"))
+            files = json.loads(self.downloadFile("files.json"))
             print("Updating")
             print()
             print("Main")

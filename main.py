@@ -4,7 +4,8 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 
-import autoUpdater, machine
+import autoUpdater
+# import machine
 
 # define repository URL
 REPO_URL = "https://github.com/PA0DEV/WordClock"
