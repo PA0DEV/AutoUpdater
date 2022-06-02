@@ -1,0 +1,11 @@
+{
+    "libs": [],
+    "main": [
+        ".gitattributes",
+        "autoUpdater.py",
+        "LICENSE",
+        "main.py",
+        "README.md"
+    ],
+    "settings": []
+}
